@@ -1,5 +1,5 @@
 {
-    "name": "one-dark-pro-monokai-darker",
+    "name": "one-dark-pro-monokai-darker-reloaded",
     "displayName": "One Dark Pro Monokai Darker Theme",
     "description": "A Darker One Dark Pro variation with Monokai scheme",
     "version": "1.1.0",
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Dark Pro Monokai Darker",
+                "label": "One Dark Pro Monokai Darker Reloaded",
                 "uiTheme": "vs-dark",
                 "path": "./themes/OneDarkProMonokaiDarker-color-theme.json"
             }
