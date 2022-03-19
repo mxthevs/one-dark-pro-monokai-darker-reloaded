@@ -205,7 +205,8 @@
 				"entity.name.module",
 				"entity.name.type",
 				"storage.identifier",
-				"support.class"
+				"support.class",
+        "entity.name.namespace"
 			],
 			"settings": {
 				"foreground": "#61afef"
