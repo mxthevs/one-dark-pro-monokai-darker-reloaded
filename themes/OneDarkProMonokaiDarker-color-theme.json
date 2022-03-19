@@ -1,6 +1,7 @@
 {
 	"name": "One Dark Pro Monokai Darker Reloaded",
 	"type": "dark",
+	"semanticHighlighting": true,
 	"colors": {
 		"focusBorder": "#181a1f",
 		"input.background": "#1d1f23",
