@@ -67,6 +67,10 @@
     "enumMember": {
       "foreground": "#56b6c2"
     },
+		"type:rescript": {
+			"foreground": "#56b6c2"
+		},
+    // "variable:rescript": "#98c379" // not sure if i like this right now
   },
 	"tokenColors": [
 		{
