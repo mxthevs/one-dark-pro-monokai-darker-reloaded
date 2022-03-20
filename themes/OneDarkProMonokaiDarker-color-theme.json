@@ -121,6 +121,13 @@
       }
     },
 		{
+			"name": "Decorators",
+			"scope": "punctuation.decorator",
+			"settings": {
+				"foreground": "#c678dd"
+			}
+		},
+		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
