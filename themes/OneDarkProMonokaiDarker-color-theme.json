@@ -63,11 +63,23 @@
 		"notification.background": "#181a1f",
 		"statusBar.debuggingBackground": "#020202"
 	},
+	"semanticTokenColors": {
+    "enumMember": {
+      "foreground": "#56b6c2"
+    },
+  },
 	"tokenColors": [
 		{
 			"settings": {
 				"foreground": "#bbbbbbff",
 				"background": "#121212ff"
+			}
+		},
+		{
+			"name": "Enum member",
+			"scope": "variable.other.enummember",
+			"settings": {
+				"foreground": "#c678dd"
 			}
 		},
 		{
