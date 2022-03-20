@@ -2,7 +2,7 @@
   "name": "one-dark-pro-monokai-darker-reloaded",
   "displayName": "One Dark Pro Monokai Darker Reloaded Theme",
   "description": "A Darker One Dark Pro variation with Monokai scheme",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "publisher": "mxthevs",
   "engines": {
     "vscode": "^1.13.0"
