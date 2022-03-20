@@ -18,7 +18,6 @@ ext install mxthevs.one-dark-pro-monokai-darker-reloaded
 ## Screenshots
 
 ![Screenshot 01](images/screenshots/ss01.png "Screenshot #01")
-![Screenshot 02](images/screenshots/ss02.png "Screenshot #02")
 
 ## Requirements
 
