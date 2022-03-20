@@ -207,7 +207,7 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#56b6c2"
+				"foreground": "#e06c75"
 			}
 		},
 		{
