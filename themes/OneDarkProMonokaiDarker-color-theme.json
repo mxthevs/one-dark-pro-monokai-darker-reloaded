@@ -253,6 +253,34 @@
       }
     },
     {
+      "name": "Punctuation",
+      "scope": [
+        "meta.brace",
+        "punctuation.definition.arguments",
+        "punctuation.definition.array",
+        "punctuation.definition.begin.bracket",
+        "punctuation.definition.binding-pattern",
+        "punctuation.definition.block",
+        "punctuation.definition.bracket",
+        "punctuation.definition.dict",
+        "punctuation.definition.dictionary",
+        "punctuation.definition.end.bracket",
+        "punctuation.definition.list",
+        "punctuation.definition.parameters",
+        "punctuation.definition.string",
+        "punctuation.definition.tag",
+        "punctuation.other.comma",
+        "punctuation.other.period",
+        "punctuation.section",
+        "punctuation.separator",
+        "punctuation.support",
+        "punctuation.terminator"
+      ],
+      "settings": {
+        "foreground": "#abb2bf",
+      }
+    },
+    {
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
